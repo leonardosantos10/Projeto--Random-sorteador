@@ -1,4 +1,4 @@
-<h1>Wide Coveragem</h1>
+<h1>DevSorteador</h1>
 
 <h3>é um projeto de uma página de sorteio de números  Devsorteio, e simples tudo pelo aplicativo da empresa.
 Projeto está Responsivo, Neste Projeto utilizei a seguintes Tecnologias:</h3>
