@@ -1,6 +1,6 @@
 <h1>Wide Coveragem</h1>
 
-<h3>Esse é um Projeto simples que na mensagem do site divulga informações de uma agência de viagens , passeios para turistas de forma rápido e simples tudo pelo aplicativo da empresa.
+<h3>é um projeto de uma página de sorteio de números  Devsorteio, e simples tudo pelo aplicativo da empresa.
 Projeto está Responsivo, Neste Projeto utilizei a seguintes Tecnologias:</h3>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo"/>
